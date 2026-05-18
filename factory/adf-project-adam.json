@@ -1,0 +1,15 @@
+{
+	"name": "adf-project-adam",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "526a7c11-2326-4eff-8ef7-c925215e2738",
+		"tenantId": "e9d7a815-c0f5-4b67-958f-76bed027f1aa"
+	}
+}
